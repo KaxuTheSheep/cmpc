@@ -18,4 +18,4 @@ uninstall:
 
 clean:
 	rm -rf cmpc build
-.PHONY: static clean test test-e2e install uninstall
+.PHONY: static clean install uninstall
