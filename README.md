@@ -2,6 +2,8 @@
 
 A small music player client using meant for a sixel-based terminal.
 
+# DON'T ACTUALLY USE THIS, ITS MID
+
 TODO:
 - Actual good README.md.
 - Use a smaller mpd replacement daemon which natively has behaviours that cmpc uses, rather than manipulating mpd for it.
